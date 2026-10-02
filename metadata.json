@@ -1,0 +1,6 @@
+{
+  "name": "Universal Document to PDF Converter",
+  "description": "Fast, secure, professional document to PDF converter supporting DOCX, XLSX, PPTX, Images, TXT, Markdown, CSV, HTML, and more with instant preview and batch conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
